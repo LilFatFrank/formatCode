@@ -1,0 +1,27 @@
+.background {
+    background-color: #53A9BC;
+    border: 1px solid #4DE6FB;
+}
+
+.appName {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.textLink {
+    color: #DAEAEE;
+}
+
+.navPosition {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 45%;
+}
+
+.activeLink {
+    color: #001B4F;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border-radius: 0%;
+}
